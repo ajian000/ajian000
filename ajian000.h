@@ -1,3 +1,4 @@
+/**我也不知道啥时候把这玩意扔这了,总之先仍这吧*/
 #include "aos/init.h"
 #include "board.h"
 #include <aos/errno.h>
@@ -57,3 +58,4 @@ void led_init(int output){
 void delay(int time){
     aos_msleep(time);
 }
+
