@@ -9,7 +9,7 @@
 
 ## 🚀 My Projects
 
-### [NewJavaSTG](https://github.com/ajian000/NewJavaSTG) ⭐
+### [NewJavaSTG](https://github.com/JavaStgTeam/JavaStg) ⭐
 > 基于Java开发的弹幕射击(STG)游戏引擎
 
 经过两年的沉淀与积累,重新审视并重构的STG游戏引擎项目。使用Java Swing框架,提供基础的游戏循环、渲染系统、输入处理等功能。
