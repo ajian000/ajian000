@@ -43,10 +43,6 @@
 - 🎨 计算机图形学
 - 🔧 性能优化
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajian000&layout=compact&theme=tokyonight)
-
 ## 🤝 Looking For
 
 目前主要在研究游戏引擎开发,特别是在以下方面希望能得到高人指点:
