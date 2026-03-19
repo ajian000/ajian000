@@ -7,29 +7,6 @@
 - 🎯 **当前目标**: 深入学习游戏引擎架构和现代渲染技术
 - 📍 **时区**: UTC+08:00
 
-## 🚀 My Projects
-
-### [NewJavaSTG](https://github.com/JavaStgTeam/JavaStg) ⭐
-> 基于Java开发的弹幕射击(STG)游戏引擎
-
-经过两年的沉淀与积累,重新审视并重构的STG游戏引擎项目。使用Java Swing框架,提供基础的游戏循环、渲染系统、输入处理等功能。
-
-**技术特点**:
-- 三面板布局设计 (1:1.5:1)
-- 60FPS双缓冲渲染
-- 智能按键扫描系统
-- 灵活的子弹管理系统
-
-### [FElikeDemo](https://github.com/ajian000/FElikeDemo) ⭐ 1
-> 类火焰纹章游戏的Demo
-
-使用JavaScript开发的策略RPG游戏Demo,借鉴了经典SRPG游戏《火焰纹章》的核心玩法。
-
-### [P2PChat](https://github.com/ajian000/P2PChat)
-> 基于P2P传输协议的实时语音聊天网站
-
-使用WebRTC技术实现的点对点实时语音聊天应用,无需服务器中转。
-
 ## 🎯 Learning Journey
 
 ### 正在学习
