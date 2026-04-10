@@ -33,7 +33,7 @@
 ## 📫 Get In Touch
 
 - GitHub: [@ajian000](https://github.com/ajian000)
-- email: [213048314@qq.com]
+- email: [由于域名到期,暂时不公开邮箱,需联系请直接在本人任意仓库发Issues]
 ---
 
 <div align="center">
