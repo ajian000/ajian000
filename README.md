@@ -1,22 +1,22 @@
 # Hi there, I'm ajian000! 👋
 
-## 🌟 About Me
+## 🌟 关于我/About Me
+<div align="left">
 
-- 🎮 **个人开发者** - 热爱游戏开发,专注于独立游戏和游戏引擎研究
-- 💻 **技术栈**: Java, JavaScript, Python, C, C++, 嵌入式开发, 游戏开发
-- 🎯 **当前目标**: 深入学习游戏引擎架构和现代渲染技术
-- 
-## 🎯 Learning Journey
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=121212&width=435&lines=个人开发者;保持热爱,奔赴山海)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=121212&width=435&lines=热爱游戏开发;保持热爱,奔赴山海)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=121212&width=435&lines=专注于独立游戏和游戏引擎研究;保持热爱,奔赴山海)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=121212&width=435&lines=以及自动化相关工具开发;保持热爱,奔赴山海)](https://git.io/typing-svg)
 
-### 正在学习
-- **游戏引擎架构**: 深入理解游戏引擎的核心组件和设计模式
-- **现代渲染技术**: LWJGL、LibGDX、OpenGL等先进渲染框架
-- **弹幕游戏开发**: 研究STG游戏的碰撞检测、弹幕算法等核心技术
+<div align="center">
+  <img src="https://api.moedog.org/count/@ajian000.readme" alt="Profile Views">
+</div>
 
-### 感兴趣的领域
-- 🎮 独立游戏开发
-- 🖥️ 游戏引擎开发
-- 🔧 性能优化
+### 📊 GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajian000&show_icons=true&theme=transparent" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajian000&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajian000&layout=compact&theme=transparent" />
+</div>
 
 ## 🤝 Looking For
 
@@ -36,10 +36,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajian000&style=for-the-badge" alt="Profile Views">
+  <i>保持热爱,奔赴山海</i>
 </div>
-
-<div align="center">
-  <i>保持热爱,奔赴山海 🚀</i>
-</div>
-
