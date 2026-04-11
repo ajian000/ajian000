@@ -13,9 +13,7 @@
 </div>
 
 ### 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajian000&show_icons=true&theme=transparent" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajian000&theme=transparent" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajian000&layout=compact&theme=transparent" />
 </div>
 
 ## 🤝 Looking For
