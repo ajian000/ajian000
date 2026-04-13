@@ -30,7 +30,7 @@
 
 - GitHub: [@ajian000](https://github.com/ajian000)
 - Gitee:[@ajian000](https://gitee.com/ajian000)
-- email: [由于域名到期,暂时不公开邮箱,需联系请直接在本人任意仓库发Issues]
+- email: [mail@ajian000.cn]
 ---
 
 <div align="center">
