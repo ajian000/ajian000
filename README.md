@@ -31,6 +31,7 @@
 - GitHub: [@ajian000](https://github.com/ajian000)
 - Gitee:[@ajian000](https://gitee.com/ajian000)
 - email: [mail@ajian000.cn]
+- 或者在[https://github.com/ajian000/ajian000](https://github.com/ajian000/ajian000)中提交issue
 ---
 
 <div align="center">
